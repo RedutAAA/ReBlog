@@ -6,7 +6,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎来到我的博客', url: 'https://reduta.top' },
-    { title: 'ο(=•ω＜=)ρ⌒☆', url: '' }
+    { title: 'ο(=•ω＜=)ρ⌒☆', url: 'https://reduta.top' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -105,8 +105,8 @@ const CONFIG = {
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: '交流方式',
-  HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
+  HEO_SOCIAL_CARD_TITLE_1: '交流频道',
+  HEO_SOCIAL_CARD_TITLE_2: '加入我的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入频道~',
   HEO_SOCIAL_CARD_URL: 'https://discord.com/channels/1208630785272188978/1208630787113484341',
 
